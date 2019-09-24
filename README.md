@@ -28,5 +28,8 @@ This is a binary classification problem where participants were supposed to pred
 - Heavy Parameter Tuning done on CatBoost Classifier, LightGBM, Random Forest and XGBoost, with CatBoost out-performing the rest. Hence, finally CatBoost was used for submission.
 - Stacking was done, with 20 CatBoost models and a meta learner (Logistic Regression) was used.
 
+### Link to the notebook
+https://www.kaggle.com/sandeeppat/ltfs-top-3-5-kernel
 
 ## Rank - 47th (out of 1352 teams). Placed in the Top 3.5% .
+
